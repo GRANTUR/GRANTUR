@@ -1,6 +1,6 @@
 # Grant
 
-Infrastructure engineer in transition — currently at JPMorgan Chase, teaching myself SRE by running production-style systems at home.
+Currently at JPMorgan Chase, teaching myself SRE by running production-style systems at home.
 
 ```mermaid
 flowchart LR
