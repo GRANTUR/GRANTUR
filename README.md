@@ -19,11 +19,11 @@ flowchart LR
 
 ## Flagship
 
-**[homelab](https://github.com/GRANTUR/homelab)** — multi-node k3s cluster on OCI Free Tier with Tailscale mesh, Traefik + Let's Encrypt, Prometheus/Grafana/Loki/Alertmanager, Sealed Secrets, Terraform IaC.
+**[homelab](https://github.com/grntsmth/homelab)** — multi-node k3s cluster on OCI Free Tier with Tailscale mesh, Traefik + Let's Encrypt, Prometheus/Grafana/Loki/Alertmanager, Sealed Secrets, Terraform IaC.
 
 ## Supporting
 
-**[chronicle](https://github.com/GRANTUR/chronicle)** — FastAPI + Discord calendar assistant that bridges Google Calendar and Outlook with LLM analysis. Deployed on the homelab above.
+**[chronicle](https://github.com/grntsmth/chronicle)** — FastAPI + Discord calendar assistant that bridges Google Calendar and Outlook with LLM analysis. Deployed on the homelab above.
 
 ## Currently learning
 
